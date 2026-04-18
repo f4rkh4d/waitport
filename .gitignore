@@ -1,0 +1,17 @@
+# binaries
+waitport
+waitport.exe
+/dist/
+/bin/
+
+# go
+*.test
+*.out
+coverage.*
+vendor/
+
+# editors / os
+.DS_Store
+.idea/
+.vscode/
+*.swp
