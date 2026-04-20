@@ -29,10 +29,10 @@ all ready.
 
 ## flags
 
-- `--timeout` — how long to wait total before giving up. default `60s`.
-- `--interval` — how often to retry each target. default `250ms`.
-- `--quiet` — shut up, only print errors.
-- `-h` / `--help` — show usage.
+- `--timeout`. how long to wait total before giving up. default `60s`.
+- `--interval`. how often to retry each target. default `250ms`.
+- `--quiet`. shut up, only print errors.
+- `-h` / `--help`. show usage.
 
 ## examples
 
